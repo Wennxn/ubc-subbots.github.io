@@ -5,15 +5,26 @@
     <description>Presenting UBC Subbots, a collaboration between Subc and UBC Snowbots</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 04 Sep 2017 17:32:01 +0800</pubDate>
-    <lastBuildDate>Mon, 04 Sep 2017 17:32:01 +0800</lastBuildDate>
+    <pubDate>Wed, 18 Oct 2017 10:33:15 -0700</pubDate>
+    <lastBuildDate>Wed, 18 Oct 2017 10:33:15 -0700</lastBuildDate>
     <generator>Jekyll v3.4.5</generator>
+    
+      <item>
+        <title>Test</title>
+        <description>&lt;h1&gt;test test test&lt;/h1&gt;
+</description>
+        <pubDate>Tue, 17 Oct 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//2017/10/17/test/</link>
+        <guid isPermaLink="true">http://localhost:4000//2017/10/17/test/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Electromechanical Systems</title>
         <description>&lt;p&gt;For more information visit [http://www.robonation.org/competition/robosub]&lt;/p&gt;
 </description>
-        <pubDate>Sun, 16 Jul 2017 00:00:00 +0800</pubDate>
+        <pubDate>Sun, 16 Jul 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//2017/07/16/Electro-Mechanical/</link>
         <guid isPermaLink="true">http://localhost:4000//2017/07/16/Electro-Mechanical/</guid>
         
@@ -24,7 +35,7 @@
         <title>Python</title>
         <description>
 </description>
-        <pubDate>Fri, 14 Jul 2017 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 14 Jul 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//2017/07/14/Python/</link>
         <guid isPermaLink="true">http://localhost:4000//2017/07/14/Python/</guid>
         
@@ -35,7 +46,7 @@
         <title>Open Computer Vision</title>
         <description>
 </description>
-        <pubDate>Fri, 14 Jul 2017 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 14 Jul 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//2017/07/14/OpenCV/</link>
         <guid isPermaLink="true">http://localhost:4000//2017/07/14/OpenCV/</guid>
         
@@ -46,7 +57,7 @@
         <title>Frame Design</title>
         <description>&lt;p&gt;For more information visit [http://www.robonation.org/competition/robosub]&lt;/p&gt;
 </description>
-        <pubDate>Fri, 14 Jul 2017 00:00:00 +0800</pubDate>
+        <pubDate>Fri, 14 Jul 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//2017/07/14/Frame/</link>
         <guid isPermaLink="true">http://localhost:4000//2017/07/14/Frame/</guid>
         
@@ -57,7 +68,7 @@
         <title>Robotics Operating System</title>
         <description>&lt;p&gt;For more information visit [ros.org]&lt;/p&gt;
 </description>
-        <pubDate>Tue, 11 Jul 2017 00:00:00 +0800</pubDate>
+        <pubDate>Tue, 11 Jul 2017 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//2017/07/11/ROS/</link>
         <guid isPermaLink="true">http://localhost:4000//2017/07/11/ROS/</guid>
         
